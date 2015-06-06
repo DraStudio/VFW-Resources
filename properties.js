@@ -12,3 +12,9 @@ var fontProperties = {
 	fontFamily: "Futura-CondensedMedium",
 	fontSize: 18,
 };
+
+exports.size = size;
+exports.message = msg;
+exports.colorWords = colorWords;
+exports.colorHex = colorHex;
+exports.typeface = fontProperties;
